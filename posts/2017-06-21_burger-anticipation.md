@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burger Anticipation
-excerpt: When life gives you a wheat plant, don’t think “What the frick is this?”
+excerpt: Sometimes settling is a recipe for success.
 ---
 ![delicious hamburger](media/2017-06-21_burger-anticipation.jpg "delicious hamburger")
 
