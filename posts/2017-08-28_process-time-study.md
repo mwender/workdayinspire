@@ -5,7 +5,7 @@ excerpt: Have you considered a process time-study for handling that dirty dish p
 ---
 ![dirty dishes](media/the-dishes.1880x984.jpg "dirty dishes")
 
-A *Workday Inspire* reader shared this process definition that served as a major morale boost at his/her workplace:
+A *Workday Inspire* reader shared this process time-study that served as a major morale boost at his/her workplace:
 
 ----
 
